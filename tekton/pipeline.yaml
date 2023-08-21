@@ -1,7 +1,7 @@
 #
 # This pipeline needs the following tasks from Tekton Hub
 #   - git-clone
-#   - flake8
+#   - flake8 x
 #
 ---
 apiVersion: tekton.dev/v1beta1
